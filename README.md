@@ -10,15 +10,20 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshots
+#### Desktop
+![image](https://github.com/gauravvsgithub/results-summary-component-FrontendMentor/assets/54109748/74652124-ff71-4af8-866e-f03461bb1bdb)
+#### Mobile
+![image](https://github.com/gauravvsgithub/results-summary-component-FrontendMentor/assets/54109748/dbbcc647-e53b-49ed-9821-62b7df59df71)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/gauravvsgithub/results-summary-component-FrontendMentor/
+- Live Site URL: https://gauravvsgithub.github.io/results-summary-component-FrontendMentor/
 
 ### Built with
 
-- SHTML5 markup
+- HTML5 markup
 - CSS
 - Flexbox
 - CSS Grid
